@@ -111,6 +111,6 @@ figcaption {
 }
 
 img, video, audio{
-  max-width: 1005;
+  max-width: 100%;
 }
 
