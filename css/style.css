@@ -103,6 +103,7 @@ figcaption {
 
 .clearfix: after{
   content: ".";
+  display: block;
   
 }
 
