@@ -120,5 +120,5 @@ section{
 }
 
 * {
-  box-sizing: border
+  box-sizing: border-box;
 }
