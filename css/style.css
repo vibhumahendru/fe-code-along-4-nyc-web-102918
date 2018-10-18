@@ -140,6 +140,11 @@ section{
   background: yellow;
 }
 
+header{
+  position: fixed;
+  top: 0;
+  
+}
 
 
 
