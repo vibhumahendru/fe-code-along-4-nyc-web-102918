@@ -106,6 +106,7 @@ figcaption {
   display: block;
   clear: both;
   visibility: hidden;
+  height: 0
 }
 
 
